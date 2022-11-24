@@ -52,7 +52,7 @@ nav{
 
 }
 /* /////////////////////////// */
-.dog{
+/* .dog{
     margin: 0 auto;
     margin-top: 180px;
     padding-left: 45px;
@@ -87,14 +87,14 @@ button{
 
 .section1{
     max-width: 90%;
-    /* width: 1180px; */
+    width: 1180px;
     margin: 0 auto;
     margin-top: 57px;
-    justify-content: space-between;
-    /* border: 2px solid green; */
+    justify-content: space-between;}
+    /* border: 2px solid green; 
 
 }
-h1{
+/* h1{
     font-size: 28px;
 }
 .bigbox{
@@ -108,8 +108,8 @@ h1{
     display: flex;
     flex-direction: column;
     background-color: #FFFFFF;
-    /* border: 2px solid black; */
-}
+    /* border: 2px solid black;} */
+
 .reklama{
     width: 165.33px;
     height: 160px;
@@ -164,10 +164,10 @@ h1{
     margin-left: 213px;
     margin-top: -32px;
 
-}
+} */
 /* /////////////////// */
 
-footer{
+/* footer{
     max-width: 90%;
     width: 100%;
     height: 121px;
@@ -204,4 +204,4 @@ footer{
 }
 h2{
     font-size: 14px;
-}
+} */
