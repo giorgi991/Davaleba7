@@ -23,7 +23,6 @@ header{
     position: absolute;
     background-color: #FFFFFF;
     position: fixed;
-    /* gap: 370px; */
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
     border: 2px solid red;
@@ -52,7 +51,7 @@ nav{
 
 }
 /* /////////////////////////// */
-/* .dog{
+.dog{
     margin: 0 auto;
     margin-top: 180px;
     padding-left: 45px;
@@ -87,14 +86,13 @@ button{
 
 .section1{
     max-width: 90%;
-    width: 1180px;
     margin: 0 auto;
     margin-top: 57px;
-    justify-content: space-between;}
-    /* border: 2px solid green; 
+    justify-content: space-between;
+
 
 }
-/* h1{
+h1{
     font-size: 28px;
 }
 .bigbox{
@@ -108,13 +106,13 @@ button{
     display: flex;
     flex-direction: column;
     background-color: #FFFFFF;
-    /* border: 2px solid black;} */
 
+}
 .reklama{
     width: 165.33px;
     height: 160px;
     margin: 0 auto;
-    /* border: 2px solid red; */
+
 }
 .prodactname{
     margin-top: 31.2px;
@@ -131,7 +129,6 @@ button{
 .gram6{
     width: 105px;
     height: 35px;
-    /* display: inline-block; */
     font-size: 13px;
     margin-top: 307px;
     margin-left: 30px;
@@ -140,7 +137,6 @@ button{
 .kilgr{
     width: 105px;
     height: 35px;
-    /* display: inline-block; */
     font-size: 13px;
     margin-top: 307px;
     margin-left: 142px;
@@ -164,10 +160,10 @@ button{
     margin-left: 213px;
     margin-top: -32px;
 
-} */
+}
 /* /////////////////// */
 
-/* footer{
+footer{
     max-width: 90%;
     width: 100%;
     height: 121px;
@@ -181,7 +177,6 @@ button{
     justify-content: space-between;
     height: 121px;
     margin-top: 173px;
-    /* border: 2px solid red; */
 
 
 }
@@ -198,10 +193,10 @@ button{
     display: flex;
     flex-wrap: wrap;
     
-    /* border: 2px solid red; */
+
 
 
 }
 h2{
     font-size: 14px;
-} */
+}
